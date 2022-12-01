@@ -3,7 +3,7 @@
 - 👀 No momento eu tô aprendendo a base, fazendo exercícios de lógica e tentando descobrir uma área pra focar mais
 - 📚 Por enquanto estou exercitando o básico de html/css e python
 - 📞 Se quiser falar comigo é só me adicionar no discord - Fragile#9573
-- 📡 Também estou reunindo pessoas que são iniciantes, como eu, em um servidor no discord, se tiver interesse só cola e me marca! 
+- 📡 Também estou reunindo pessoas que são iniciantes, como eu, em um servidor no discord, se tiver interesse só cola e me marca! (se você já tiver experiência na área, pode entrar também!)
 https://discord.gg/wzTEeGNeta
 
 (EN)
