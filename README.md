@@ -4,7 +4,7 @@
 - 📚 Por enquanto estou exercitando o básico de html/css e python
 - 📞 Se quiser falar comigo é só me adicionar no discord - Fragile#9573
 - 📡 Também estou reunindo pessoas que são iniciantes, como eu, em um servidor no discord, se tiver interesse só cola e me marca! (se você já tiver experiência na área, pode entrar também!)
-https://discord.gg/wzTEeGNeta
+https://discord.gg/ZY6RDQcXbf
 
 (EN)
 - 👋 Hi, im Ulisses (the UFrances stuff doesnt work in english lol) 🤠
@@ -12,7 +12,7 @@ https://discord.gg/wzTEeGNeta
 - 📚 I’m currently learning the basics of html, css and python.
 - 📞 if you wanna talk to me just add me on discord Fragile#9573
 - 📡 Im also creating a discord server for begginers(if you already are a experieced programmer, feel free to join!).
-https://discord.gg/wzTEeGNeta
+https://discord.gg/ZY6RDQcXbf
 
 <!---
 UFran6/UFran6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
